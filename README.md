@@ -8,5 +8,6 @@ Collection of useful data related information
 1. [RPA Python](https://github.com/tebelorg/RPA-Python)
 2. [Cookie Cutter Template](https://github.com/boromir674/cookiecutter-python-package)
 3. [Jinja Template](https://jinja.palletsprojects.com/en/3.0.x/api/)
+4. [Testing with Tox](https://christophergs.com/python/2020/04/12/python-tox-why-use-it-and-tutorial/)
 
 </details>
