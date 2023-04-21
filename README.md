@@ -11,7 +11,7 @@ Collection of useful data related information
 4. [Testing with Tox](https://christophergs.com/python/2020/04/12/python-tox-why-use-it-and-tutorial/) - Testing for large projects
 5. [Logging with IceCream](https://towardsdatascience.com/introducing-icecream-never-use-print-to-debug-your-python-code-again-d8f2e5719f8a) - Use over print statements when debugging
 6. [Multiprocessing with python](https://www.geeksforgeeks.org/multiprocessing-python-set-1/) - Use to speed up long running scripts
-
+7. [Polars, faster pandas](https://pola-rs.github.io/polars-book/user-guide/)
 </details>
 
 
