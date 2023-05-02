@@ -21,3 +21,11 @@ Collection of useful data related information
 2. [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of sesign and UI respirces from stock photos, web templates, css framework and more
 3. [Hover](https://github.com/IanLunn/Hover) - A collection of css3-powered hover effects
  </details>
+
+
+<details><summary><h2>Interesting Topic's</h2></summary>
+ 
+1. [Sentiment Analysis](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+2. [Operating Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/index.html) 
+ 
+  </details>
