@@ -15,4 +15,10 @@ Collection of useful data related information
 </details>
 
 
+<details><summary><h2>Front-End Library's</h2></summary>
 
+1. [HTML Boilerplate](https://github.com/h5bp/html5-boilerplate) - Front-end template for building fast, robust, and adaptable web apps
+2. [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of sesign and UI respirces from stock photos, web templates, css framework and more
+3. [Hover](https://github.com/IanLunn/Hover) - A collection of css3-powered hover effects
+  
+ </details>
