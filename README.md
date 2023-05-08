@@ -12,6 +12,8 @@ Collection of useful data related information
 5. [Logging with IceCream](https://towardsdatascience.com/introducing-icecream-never-use-print-to-debug-your-python-code-again-d8f2e5719f8a) - Use over print statements when debugging
 6. [Multiprocessing with python](https://www.geeksforgeeks.org/multiprocessing-python-set-1/) - Use to speed up long running scripts
 7. [Polars, faster pandas](https://pola-rs.github.io/polars-book/user-guide/)
+8. [Pyside] (https://wiki.freecad.org/PySide_Intermediate_Examples) - Build Desktop Apps with python. [Examples] (https://www.pythonguis.com/pyside2-tutorial/)
+ 
 </details>
 
 
