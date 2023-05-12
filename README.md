@@ -13,6 +13,7 @@ Collection of useful data related information
 6. [Multiprocessing with python](https://www.geeksforgeeks.org/multiprocessing-python-set-1/) - Use to speed up long running scripts
 7. [Polars, faster pandas](https://pola-rs.github.io/polars-book/user-guide/)
 8. [Pyside](https://wiki.freecad.org/PySide_Intermediate_Examples) - Build Desktop Apps with python. [Examples](https://www.pythonguis.com/pyside2-tutorial/)
+9. [Pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas combined with Open AI
  
 </details>
 
