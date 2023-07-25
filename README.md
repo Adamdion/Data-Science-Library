@@ -14,10 +14,8 @@ Collection of useful data related information
 7. [Polars, faster pandas](https://pola-rs.github.io/polars-book/user-guide/)
 8. [Pyside](https://wiki.freecad.org/PySide_Intermediate_Examples) - Build Desktop Apps with python. [Examples](https://www.pythonguis.com/pyside2-tutorial/)
 9. [Pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas combined with Open AI
-10. [Quickly Build and Share ML Models - Gradio](https://aws.amazon.com/codestar/)
-    
+10. [Quickly Build and Share ML Models - Gradio](https://aws.amazon.com/codestar/)    
 </details>
-
 
 <details><summary><h2>Front-End Library's</h2></summary>
 
@@ -31,12 +29,11 @@ Collection of useful data related information
  
 1. [Sentiment Analysis](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 2. [Operating Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/index.html) 
- 
   </details>
 
 <details><summary><h2>CI/CD Tools</h2></summary>
  
-1. [Django CI/CD Process]([https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application#style-checker))
+1. [Django CI/CD Process - Semaphore](https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application#style-checker)
 2. [AWS CI/CD Tool - CodeStar](https://aws.amazon.com/codestar/) 
  
   </details>
