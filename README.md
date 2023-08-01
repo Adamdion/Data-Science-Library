@@ -38,6 +38,14 @@ Collection of useful data related information
  
   </details>
 
+<details><summary><h2>Data To Train ML Models</h2></summary>
+ 
+1. [Awesome Public Datasets Github](https://github.com/awesomedata/awesome-public-datasets) - A Git Repo of a bunch of free public datasets 
+2. [Faker - Python lib to generate fake data](https://faker.readthedocs.io/en/master/) 
+ 
+  </details>
+  
+
 
 
 
