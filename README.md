@@ -38,10 +38,12 @@ Collection of useful data related information
  
   </details>
 
-<details><summary><h2>Data To Train ML Models</h2></summary>
+<details><summary><h2>Train ML Models</h2></summary>
  
 1. [Awesome Public Datasets Github](https://github.com/awesomedata/awesome-public-datasets) - A Git Repo of a bunch of free public datasets 
-2. [Faker - Python lib to generate fake data](https://faker.readthedocs.io/en/master/) 
+2. [Faker - Python lib to generate fake data](https://faker.readthedocs.io/en/master/)
+3. [Guide To Train With No Code](https://cobusgreyling.medium.com/how-to-create-huggingface-custom-ai-models-using-autotrain-72d75484b82b)
+4. [AutoTrain by HuggingFace](https://ui.autotrain.huggingface.co/)
  
   </details>
   
