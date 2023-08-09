@@ -14,7 +14,8 @@ Collection of useful data related information
 7. [Polars, faster pandas](https://pola-rs.github.io/polars-book/user-guide/)
 8. [Pyside](https://wiki.freecad.org/PySide_Intermediate_Examples) - Build Desktop Apps with python. [Examples](https://www.pythonguis.com/pyside2-tutorial/)
 9. [Pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas combined with Open AI
-10. [Quickly Build and Share ML Models - Gradio](https://aws.amazon.com/codestar/)    
+10. [Quickly Build and Share ML Models - Gradio](https://aws.amazon.com/codestar/)
+11. [Lumitbot - Package to easily trade with python](https://lumibot.lumiwealth.com/)
 </details>
 
 <details><summary><h2>Front-End Library's</h2></summary>
